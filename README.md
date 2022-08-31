@@ -2,10 +2,10 @@ Repositório dedicado pra os meus estudos de react hooks
 
 ### in Progress 👩🏾‍💻
 
-### React Hooks
+React Hooks
 
 
-### O que é um Hook
+O que é um Hook
 
 <p>De acordo com a Documentação os <strong>Hooks</strong> são funções que permite ligar
 aos recursos de state e ciclo de vida do <strong>React</strong></p>
