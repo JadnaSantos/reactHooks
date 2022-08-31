@@ -1,4 +1,9 @@
+Repositório dedicado pra os meus estudos de react hooks
+
+### in Progress 👩🏾‍💻
+
 ### React Hooks
+
 
 ### O que é um Hook
 
