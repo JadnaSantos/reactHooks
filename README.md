@@ -32,8 +32,14 @@ O que é a propriedade children do React?
  - É uma propriedade que representa todo o valor que foi passado entre as tags de abertura e fechamento de um componente
 
 ### useReducer
-É uma alterantiva ao useState e devemos utlizá-lo quando temos há muita complexidade na regra de alteração do estado
+É uma alterantiva ao useState e devemos utlizá-lo quando temos há muita complexidade na regra de alteração do estado. O 
+useReducer recebe dois parâmetros
+```
+  const [cycles, setCycles] useReducer((state, action) => {}, [])
   
+  O primeiro parâmetro state é o valor atual da variável cycles
+  E o segundo parâmetro é qual ação que o user pode executar 
+```
 
 ### useRef
 O useRef pode ser utilizando com uma alternativa ao useState. O useRef cada vez que valor dele muda,
